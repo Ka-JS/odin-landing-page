@@ -97,7 +97,9 @@ button{
 }
 
 .card{
-    max-width: 200px;
+    text-align: center;
+    max-width: 150px;
+    font-size: 15px;
 }
 
 .card .box{
@@ -107,6 +109,8 @@ button{
     border-radius: 15px;
     margin-bottom: 10px;
 }
+
+
 
 
 /* QUOTE */
@@ -162,7 +166,8 @@ button{
     max-width: 900px;
 }
 
-.box-text h3, p{
+.box-text h3,
+.box-text p{
     margin: 0;
 }
 
