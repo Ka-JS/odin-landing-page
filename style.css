@@ -22,7 +22,7 @@ button{
 
 button:hover {
     transform: translateY(-2px);
-    box-shadow: 0px 8px 20px rgba(56, 130, 246, 0.6);
+    box-shadow: 0px 5px 15px rgba(142, 185, 255, 0.6);
 }
 
 
@@ -75,7 +75,7 @@ button:hover {
 
 .hero-right img{
     width: 500px;
-    height: 250px;
+    height: auto;
     display: flex;
     background-color: rgb(130, 131, 145);
 }
